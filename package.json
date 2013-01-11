@@ -1,0 +1,13 @@
+{
+  "name": "Nami-Doc-contains",
+  "version": "1.0.0",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "max": "index.js"
+    }
+  }
+}
