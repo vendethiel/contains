@@ -1,6 +1,6 @@
 {
-  "name": "Nami-Doc-contains",
-  "version": "1.0.0",
+  "name": "contains",
+  "version": "0.0.1",
   "devDependencies": {
     "mocha": "*",
     "should": "*"
