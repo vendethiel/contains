@@ -1,7 +1,7 @@
 /**
  * Checks whether the element `el` is in the array `arr`
  */
-module.exports = function (el, arr) {
+module.exports = function (arr, el) {
   var i = 0
     , len = arr.length >>> 0
 
