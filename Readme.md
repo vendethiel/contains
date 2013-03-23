@@ -12,7 +12,7 @@
 ### contains
 
 ```js
-contains(1, [1, 2, 3])
+contains([1, 2, 3], 1)
 ```
 
 ## License
