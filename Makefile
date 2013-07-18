@@ -13,4 +13,4 @@ test:
 		--reporter spec \
 		--require should
 
-.PHONY: clean
+.PHONY: clean test
