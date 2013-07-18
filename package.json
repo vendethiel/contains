@@ -1,6 +1,6 @@
 {
-  "name": "contains",
-  "version": "0.0.1",
+  "name": "contains-component",
+  "version": "1.0.0",
   "devDependencies": {
     "mocha": "*",
     "should": "*"

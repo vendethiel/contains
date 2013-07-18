@@ -2,7 +2,7 @@
   "name": "contains",
   "repo": "Nami-Doc/contains",
   "description": "Checks whether an element is in an array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {},
   "development": {},
