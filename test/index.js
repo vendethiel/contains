@@ -15,6 +15,6 @@ describe('contains(el, arr)', function () {
   it('should see substrings present in a string', function () {
     var arr = 'team'
     contains(arr, 'i').should.be.false
-    contains(arr, 'e').should.be.true
+    contains(arr, 'tea').should.be.true
   })
 })
